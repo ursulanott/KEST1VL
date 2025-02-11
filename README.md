@@ -14,7 +14,6 @@ _In anim do duis ullamco_. Lorem ad mollit eu anim exercitation qui ea pariatur 
 
 > Dolor tempor velit excepteur ut nostrud est excepteur fugiat fugiat voluptate duis cupidatat elit. Nulla aliquip aute consequat quis elit consequat ullamco excepteur officia.
 
-Video id: HUBNt18RFbo
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HUBNt18RFbo/0.jpg)](http://www.youtube.com/watch?v=HUBNt18RFbo)
 
 ### Aliquip sunt laboris et esse nostrud. 

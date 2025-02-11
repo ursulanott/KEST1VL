@@ -1,7 +1,7 @@
 ## Hvað gera eftirfarandi Linux skipanir?
 cd - færir þig þangað sem þú vilt vera
-ls - 
-pwd -
+ls - sýnir hvaða möppur þú hefur
+pwd - sýnir hvar þú ert staddur
 mkdir -
 
 ## Hvað gera eftirfarandi Git skipanir?

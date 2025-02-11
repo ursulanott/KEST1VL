@@ -4,11 +4,11 @@
 
 _In anim do duis ullamco_. Lorem ad mollit eu anim exercitation qui ea pariatur fugiat proident mollit. Consectetur dolore cupidatat aliquip aliqua elit exercitation cillum duis tempor.
 
-Excepteur amet aliqua quis exercitation aliquip laboris. 
+### Excepteur amet aliqua quis exercitation aliquip laboris. 
 
-Proident quis velit sint fugiat eiusmod eiusmod esse. Cupidatat velit nulla ipsum est tempor et sunt nisi incididunt elit ea officia aliquip ad. 
+**Proident quis velit sint** fugiat eiusmod eiusmod esse. Cupidatat velit nulla ipsum est tempor et sunt nisi incididunt elit ea officia aliquip ad. 
 
-Tækniskólinn https://www.tskoli.is
+[tækniskólinn] (Tækniskólinn https://www.tskoli.is)
 
 https://tskoli.is/wp-content/uploads/2017/07/Tækniskólinn.Háteigsvegi-1-768x463.jpg
 

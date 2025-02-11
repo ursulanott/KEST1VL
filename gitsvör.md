@@ -1,8 +1,8 @@
 ## Hvað gera eftirfarandi Linux skipanir?
 cd - færir þig þangað sem þú vilt vera
-ls - sýnir hvaða möppur þú hefur
+ls - sýnir hvaða möppur og skjöl þú hefur
 pwd - sýnir hvar þú ert staddur
-mkdir -
+mkdir - til að búa til möppur
 
 ## Hvað gera eftirfarandi Git skipanir?
 git clone
